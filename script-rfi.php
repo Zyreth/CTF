@@ -1,4 +1,3 @@
 <?php
-//file_get_contents('index.php');
-echo 'bob';
+echo file_get_contents('index.php');
 ?>
